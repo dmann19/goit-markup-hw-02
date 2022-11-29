@@ -1,0 +1,25 @@
+/*колір основного тексту #212121 */
+/*колір дргорядного тексту #757575 */
+/*білий #F5F5F5*/
+/*акцент  #2196F3 */
+body{
+    background-color: #F5F5F5;
+    color: #212121;
+}
+.logo{
+    color: #000000;
+    color: #2196F3;
+
+}
+
+.site-nav a{
+ color: #212121;   
+}
+.site-nav a:hover,
+.site-nav a:focus{
+    color: #2196F3;
+}
+
+.section-title{
+    color:#212121;
+}
